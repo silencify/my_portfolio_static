@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on My New Hugo Site</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Oct 2023 22:46:48 +0545</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trekking to Tilicho</title>
+      <link>/blog/trekking_to_tilicho/</link>
+      <pubDate>Fri, 27 Oct 2023 22:46:48 +0545</pubDate>
+      
+      <guid>/blog/trekking_to_tilicho/</guid>
+      <description>It was cold, it was exhausting, it was miserable but every moment of the trip was exciting. This is about my experience of trekking to Tilicho.
+Me and my friends - Bishal, Bibek - out of the blue decided to go trekking to Tilicho, partially planned. We did some findings on the itinerary and planned how to reach tilicho.
+We took the bus from Kathmandu to Besishahar and from there took a jeep to Chame.</description>
+    </item>
+    
+  </channel>
+</rss>
