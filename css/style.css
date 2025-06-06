@@ -27,7 +27,8 @@ p, h2, h3, h4, h5 {
   color: #F6FAF5; }
 
 p {
-  line-height: 1.7; }
+  line-height: 1.7;
+  font-size: 14px; }
 
 img {
   width: 100%; }
